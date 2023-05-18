@@ -1,7 +1,7 @@
 
 ### Using react-hook-form Validation 
 
-# Click [here]() to validate.
+# Click [here](https://nathanshuai.github.io/react-hook-form/) to validate.
 
 <br />
 
